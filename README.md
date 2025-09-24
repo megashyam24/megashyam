@@ -35,7 +35,7 @@ Tech Enthusiast & Full-Stack Explorer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="50px"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50px"/> 
 </p>  
 
@@ -84,7 +84,7 @@ Tech Enthusiast & Full-Stack Explorer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megashyam24&layout=compact&theme=transparent" alt="Top Languages" /> 
 </p>
 <p align="left"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megashyam24&theme=transparent" alt="GitHub Streak" /> 
+  <img src="https://streak-stats.demolab.com?user=megashyam24&theme=transparent" alt="GitHub Streak" /> 
 </p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=megashyam24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" /> 
