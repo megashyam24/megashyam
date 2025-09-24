@@ -12,10 +12,10 @@
   <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
   </a>
-  <a href="https://www.instagram.com/krba_._" target="_blank">
+  <a href="https://www.instagram.com/mega___shyam" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40px"/>
   </a>
-  <a href="https://github.com/kirubaharan181" target="_blank">
+  <a href="https://github.com/megashyam24" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
   </a>
 </p>
