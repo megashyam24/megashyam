@@ -61,13 +61,6 @@ Tech Enthusiast & Full-Stack Explorer
 
 ---
 
-## 🎓 Education  
-- **B.Tech – Information Technology** – Mepco Schlenk Engineering College (CGPA: 8.22)  
-- **HSC – 94%** – Sivakasi Nadars Matriculation Hr. Sec. School  
-- **SSLC – 97.4%** – Sivakasi Nadars Matriculation Hr. Sec. School  
-
----
-
 ## 📜 Certifications  
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/378d1df8-139b-4a07-b440-4bedc8bda9a7/public_url)  
 - Infosys – Associate in IT Foundation Skills (Java)  
@@ -84,7 +77,7 @@ Tech Enthusiast & Full-Stack Explorer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megashyam24&layout=compact&theme=transparent" alt="Top Languages" /> 
 </p>
 <p align="left"> 
-  <img src="https://streak-stats.demolab.com?user=megashyam24&theme=transparent" alt="GitHub Streak" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=megashyam24&theme=transparent&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" /> 
 </p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=megashyam24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" /> 
