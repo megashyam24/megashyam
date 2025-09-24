@@ -297,36 +297,34 @@
 
 ---
 <!-- Experience Section -->
-<section id="experience" style="background-color:#f9f9f9; padding:50px 20px; font-family:Arial, sans-serif;">
-  <h2 style="text-align:center; font-size:36px; color:#333; margin-bottom:50px; position:relative;">
-    Experience
-    <span style="display:block; width:80px; height:4px; background-color:#4CAF50; margin:10px auto 0; border-radius:2px;"></span>
-  </h2>
+---
+<h2 align="center" style="color:#00ff88; text-shadow:0 0 10px #00ff88;">
+  💼 My Professional Journey
+</h2>
 
-  <div style="display:flex; flex-direction:column; gap:30px; max-width:900px; margin:0 auto;">
+<div align="center" style="display:flex; flex-direction:column; gap:25px; max-width:900px; margin:0 auto; padding:20px 0;">
 
-    <div style="background-color:#fff; padding:30px; border-radius:12px; box-shadow:0 10px 20px rgba(0,0,0,0.1); position:relative; transition: transform 0.3s;">
-      <h3 style="color:#4CAF50; margin-bottom:5px;">AI Team Intern (Cloud Computing)</h3>
-      <p style="font-weight:bold; color:#555;">Dot Com Infoway Ltd, Madurai</p>
-      <p style="font-style:italic; color:#888;">June 6, 2025 - July 4, 2025</p>
-      <ul style="margin-top:15px; color:#555; line-height:1.6;">
-        <li>Completed an internship in the AI team, focusing on cloud computing solutions.</li>
-        <li>Contributed to the development and deployment of AI-driven applications, leveraging cloud infrastructure to enhance performance and scalability.</li>
-      </ul>
-    </div>
-
-    <div style="background-color:#fff; padding:30px; border-radius:12px; box-shadow:0 10px 20px rgba(0,0,0,0.1); position:relative; transition: transform 0.3s;">
-      <h3 style="color:#4CAF50; margin-bottom:5px;">Frontend Intern (On-Remote)</h3>
-      <p style="font-weight:bold; color:#555;">Aspirerise Ventures Ltd, Dublin, Ireland</p>
-      <p style="font-style:italic; color:#888;">May 15, 2025 - June 15, 2025</p>
-      <ul style="margin-top:15px; color:#555; line-height:1.6;">
-        <li>Worked on frontend development tasks using modern web technologies.</li>
-        <li>Collaborated with design and backend teams to create responsive and user-friendly web interfaces.</li>
-      </ul>
-    </div>
-
+  <div style="background:linear-gradient(135deg, #1A1A1A, #282828); color:#e0e0e0; padding:25px; border-radius:12px; box-shadow:0 8px 16px rgba(0,0,0,0.4); transition:transform 0.3s, box-shadow 0.3s; width:100%;" onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 12px 24px rgba(0,255,136,0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.4)';">
+    <h3 style="color:#00ff88; margin-bottom:5px;">☁️ **AI Team Intern** (Cloud Computing)</h3>
+    <p style="font-weight:bold; color:#ff00ff;">Dot Com Infoway Ltd, Madurai</p>
+    <p style="font-style:italic; color:#b0b0b0; margin-bottom:15px;">June 6, 2025 - July 4, 2025</p>
+    <ul style="list-style-type:square; text-align:left; padding-left:25px; line-height:1.6;">
+      <li>Completed an internship in the **AI team**, focusing on cloud computing solutions.</li>
+      <li>Contributed to the development and deployment of **AI-driven applications**, leveraging cloud infrastructure to enhance performance and scalability.</li>
+    </ul>
   </div>
-</section>
+
+  <div style="background:linear-gradient(135deg, #1A1A1A, #282828); color:#e0e0e0; padding:25px; border-radius:12px; box-shadow:0 8px 16px rgba(0,0,0,0.4); transition:transform 0.3s, box-shadow 0.3s; width:100%;" onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 12px 24px rgba(0,255,136,0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.4)';">
+    <h3 style="color:#00ff88; margin-bottom:5px;">💻 **Frontend Intern** (On-Remote)</h3>
+    <p style="font-weight:bold; color:#ff00ff;">Aspirerise Ventures Ltd, Dublin, Ireland</p>
+    <p style="font-style:italic; color:#b0b0b0; margin-bottom:15px;">May 15, 2025 - June 15, 2025</p>
+    <ul style="list-style-type:square; text-align:left; padding-left:25px; line-height:1.6;">
+      <li>Worked on **frontend development** tasks using modern web technologies.</li>
+      <li>Collaborated with design and backend teams to create **responsive and user-friendly web interfaces**.</li>
+    </ul>
+  </div>
+
+</div>
 
 
 <!-- GitHub Insights -->
