@@ -296,16 +296,35 @@
 </div>
 
 ---
-<section id="experience">
-  <h2>Experience</h2>
-  <div class="experience-item">
-    <h3>AI Team Intern (Cloud Computing)</h3>
-    <p><strong>Dot Com Infoway Ltd, Madurai</strong></p>
-    <p><em>June 6, 2025 - July 4, 2025</em></p>
-    <ul>
-      <li>Completed an internship in the AI team, focusing on cloud computing solutions.</li>
-      <li>Contributed to the development and deployment of AI-driven applications, leveraging cloud infrastructure to enhance performance and scalability.</li>
-    </ul>
+<!-- Experience Section -->
+<section id="experience" style="background-color:#f9f9f9; padding:50px 20px; font-family:Arial, sans-serif;">
+  <h2 style="text-align:center; font-size:36px; color:#333; margin-bottom:50px; position:relative;">
+    Experience
+    <span style="display:block; width:80px; height:4px; background-color:#4CAF50; margin:10px auto 0; border-radius:2px;"></span>
+  </h2>
+
+  <div style="display:flex; flex-direction:column; gap:30px; max-width:900px; margin:0 auto;">
+
+    <div style="background-color:#fff; padding:30px; border-radius:12px; box-shadow:0 10px 20px rgba(0,0,0,0.1); position:relative; transition: transform 0.3s;">
+      <h3 style="color:#4CAF50; margin-bottom:5px;">AI Team Intern (Cloud Computing)</h3>
+      <p style="font-weight:bold; color:#555;">Dot Com Infoway Ltd, Madurai</p>
+      <p style="font-style:italic; color:#888;">June 6, 2025 - July 4, 2025</p>
+      <ul style="margin-top:15px; color:#555; line-height:1.6;">
+        <li>Completed an internship in the AI team, focusing on cloud computing solutions.</li>
+        <li>Contributed to the development and deployment of AI-driven applications, leveraging cloud infrastructure to enhance performance and scalability.</li>
+      </ul>
+    </div>
+
+    <div style="background-color:#fff; padding:30px; border-radius:12px; box-shadow:0 10px 20px rgba(0,0,0,0.1); position:relative; transition: transform 0.3s;">
+      <h3 style="color:#4CAF50; margin-bottom:5px;">Frontend Intern (On-Remote)</h3>
+      <p style="font-weight:bold; color:#555;">Aspirerise Ventures Ltd, Dublin, Ireland</p>
+      <p style="font-style:italic; color:#888;">May 15, 2025 - June 15, 2025</p>
+      <ul style="margin-top:15px; color:#555; line-height:1.6;">
+        <li>Worked on frontend development tasks using modern web technologies.</li>
+        <li>Collaborated with design and backend teams to create responsive and user-friendly web interfaces.</li>
+      </ul>
+    </div>
+
   </div>
 </section>
 
