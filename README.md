@@ -227,7 +227,7 @@
     <div style="content:''; position:absolute; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle at top left, rgba(0,255,136,0.3), transparent); opacity:0; transition:opacity 0.3s ease;" onmouseover="this.style.opacity='0.5';" onmouseout="this.style.opacity='0';"></div>
     <h3 style="color:white; text-shadow:0 0 6px #ff00ff; font-size:20px; margin-bottom:15px;">F.R.I.E.N.D.S Chatbot</h3>
     <img src="https://wallpapercave.com/wp/y57Tz5Q.jpg" alt="F.R.I.E.N.D.S Chatbot Screenshot" style="width:260px; height:180px; object-fit:cover; border-radius:12px; margin-bottom:15px; box-shadow:0 0 10px rgba(0,255,136,0.5);" onerror="this.src='https://via.placeholder.com/260x180/0a0a23/ffffff?text=Chatbot+Image'" />
-    <p style="font-size:16px; margin-bottom:10px;">AI-powered chatbot using RAG and Google Gemini API for contextual replies.</p>
+    <p style="font-size:16px; margin-bottom:10px;"> Developed an AI-powered Friends-themed chatbot using RAG with Gemini API and ChromaDB for contextual, character-specific replies. Deployed on AWS EC2 via Flask for a seamless user experience.</p>
     <p style="font-size:14px; margin-bottom:15px;"><b>Tech:</b> Python, Gemini API, ChromaDB, Flask, AWS EC2</p>
     <a href="https://github.com/megashyam24/F.R.I.E.N.D.S-CHATBOT" target="_blank" style="color:#00ff88; text-decoration:none; font-size:14px; padding:8px 16px; border:2px solid #00ff88; border-radius:8px; transition:background 0.3s ease, color 0.3s ease;" onmouseover="this.style.background='#00ff88'; this.style.color='#0a0a23';" onmouseout="this.style.background='transparent'; this.style.color='#00ff88';">View Repo</a>
   </div>
@@ -235,8 +235,8 @@
     <div style="content:''; position:absolute; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle at top left, rgba(0,255,136,0.3), transparent); opacity:0; transition:opacity 0.3s ease;" onmouseover="this.style.opacity='0.5';" onmouseout="this.style.opacity='0';"></div>
     <h3 style="color:white; text-shadow:0 0 6px #ff00ff; font-size:20px; margin-bottom:15px;">Travel Recommendation App</h3>
     <img src="https://lh3.googleusercontent.com/a/ACg8ocILcz6D2Z6DsuaO43eriDQeJTkzu_Bx5CDJyIdCdZzZbC3Mr70=s360-c-no" alt="Travel App Screenshot" style="width:260px; height:180px; object-fit:cover; border-radius:12px; margin-bottom:15px; box-shadow:0 0 10px rgba(0,255,136,0.5);" onerror="this.src='https://via.placeholder.com/260x180/0a0a23/ffffff?text=Travel+App+Image'" />
-    <p style="font-size:16px; margin-bottom:10px;">ML-based travel planner with personalized suggestions and booking.</p>
-    <p style="font-size:14px; margin-bottom:15px;"><b>Tech:</b> MERN Stack, Python, MongoDB, JWT</p>
+    <p style="font-size:16px; margin-bottom:10px;">Developed a Travel Recommendation Web App with smart ML-based suggestions for personalized travel options.Enabled seamless trip booking to streamline user experience and travel planning.</p>
+    <p style="font-size:14px; margin-bottom:15px;"><b>Tech:</b>  MERN Stack, Collaborative Filtering (Python), MongoDB Atlas, JWT, Nodemailer</p>
     <a href="https://github.com/megashyam24/travel-app" target="_blank" style="color:#00ff88; text-decoration:none; font-size:14px; padding:8px 16px; border:2px solid #00ff88; border-radius:8px; transition:background 0.3s ease, color 0.3s ease;" onmouseover="this.style.background='#00ff88'; this.style.color='#0a0a23';" onmouseout="this.style.background='transparent'; this.style.color='#00ff88';">View Repo</a>
   </div>
   <div style="background:linear-gradient(135deg,#fdcb6e,#e17055); color:white; width:100%; max-width:300px; border-radius:15px; padding:25px; transition:transform 0.3s ease, box-shadow 0.3s ease; box-shadow:0 12px 24px rgba(0,0,0,0.5); position:relative; overflow:hidden;" onmouseover="this.style.transform='translateY(-15px) scale(1.05)'; this.style.boxShadow='0 20px 40px rgba(0,255,136,0.7)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 12px 24px rgba(0,0,0,0.5)';">
@@ -259,7 +259,7 @@
     <div style="content:''; position:absolute; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle at top left, rgba(0,255,136,0.3), transparent); opacity:0; transition:opacity 0.3s ease;" onmouseover="this.style.opacity='0.5';" onmouseout="this.style.opacity='0';"></div>
     <h3 style="color:white; text-shadow:0 0 6px #ff00ff; font-size:20px; margin-bottom:15px;">Publish-Subscribe System</h3>
     <img src="https://repository-images.githubusercontent.com/22583004/74dd5a00-7321-11ea-9d6c-fbdf18b91e79" alt="PubSub Screenshot" style="width:260px; height:180px; object-fit:cover; border-radius:12px; margin-bottom:15px; box-shadow:0 0 10px rgba(0,255,136,0.5);" onerror="this.src='https://via.placeholder.com/260x180/0a0a23/ffffff?text=PubSub+Image'" />
-    <p style="font-size:16px; margin-bottom:10px;">Real-time messaging system for topic-based updates.</p>
+    <p style="font-size:16px; margin-bottom:10px;">Built an efficient Publish-Subscribe System that enables multiple users to effortlessly share and receive real-time updates based on their chosen topics.</p>
     <p style="font-size:14px; margin-bottom:15px;"><b>Tech:</b> Java, MySQL, WebSockets</p>
     <a href="https://github.com/megashyam24/publish-subscribe-system" target="_blank" style="color:#00ff88; text-decoration:none; font-size:14px; padding:8px 16px; border:2px solid #00ff88; border-radius:8px; transition:background 0.3s ease, color 0.3s ease;" onmouseover="this.style.background='#00ff88'; this.style.color='#0a0a23';" onmouseout="this.style.background='transparent'; this.style.color='#00ff88';">View Repo</a>
   </div>
