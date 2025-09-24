@@ -76,9 +76,24 @@ Tech Enthusiast & Full-Stack Explorer
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megashyam24&layout=compact&theme=transparent" alt="Top Languages" /> 
 </p>
-<p align="left"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=megashyam24&theme=transparent&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" /> 
-</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=megashyam24&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>  
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/megashyam24/megashyam24/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>  
+
+---
+
+## 👀 Profile Views  
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=megashyam24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" /> 
 </p>
