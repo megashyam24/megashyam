@@ -1,9 +1,9 @@
-# Hi 👋, I'm Kirubaharan  
-## Java Developer  
+# Hi 👋, I'm Mega Shyam
+## Tech Enthusiast  
 
-🌱 I’m currently learning **PowerBI**  
+🌱 I’m expertised in **Cloud Computing and Artificial Intelligence**  
 💬 Ask me about **Java, Data Analytics, and Software Engineering**  
-📫 How to reach me: [kirubakrishkk@gmail.com](mailto:kirubakrishkk@gmail.com)  
+📫 How to reach me: [megashyam24@gmail.com](mailto:megashyam24@gmail.com)  
 
 ---
 
