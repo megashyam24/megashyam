@@ -48,7 +48,7 @@
   📝 My Tech Journey
 </h2>
 <div align="center" style="max-width:950px; margin:0 auto; color:#e0e0e0; animation:fadeIn 1.2s ease-in; font-size:18px;">
-  <p>I'm a 20-year-old tech visionary from Madurai, India, driven by a passion for solving real-world challenges with <strong>AI, Cloud Computing, and Full-Stack Development</strong>. From building an AI-powered leaf disease classifier to crafting a F.R.I.E.N.D.S-themed chatbot with RAG frameworks, I blend creativity with technical precision. Currently diving into <strong>MLOps</strong>, <strong>distributed systems</strong>, and <strong>Generative AI</strong>, I'm always up for collaborating on groundbreaking projects!</p>
+  <p>I'm a 20-year-old tech visionary driven by a passion for solving real-world challenges with <strong>AI, Cloud Computing, and Full-Stack Development</strong>. From building an AI-powered leaf disease classifier to crafting a F.R.I.E.N.D.S-themed chatbot with RAG frameworks, I blend creativity with technical precision. Currently diving into <strong>MLOps</strong>, <strong>distributed systems</strong>, and <strong>Generative AI</strong>, I'm always up for collaborating on groundbreaking projects!</p>
 </div>
 
 ---
@@ -243,8 +243,8 @@
     <div style="content:''; position:absolute; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle at top left, rgba(0,255,136,0.3), transparent); opacity:0; transition:opacity 0.3s ease;" onmouseover="this.style.opacity='0.5';" onmouseout="this.style.opacity='0';"></div>
     <h3 style="color:white; text-shadow:0 0 6px #ff00ff; font-size:20px; margin-bottom:15px;">Food Delivery App</h3>
     <img src="https://lh3.googleusercontent.com/a/ACg8ocJ74mlG9rrznKpBjXLzMm8VlRNXDgLZTUReqGnN3Zj8xicjE5w=s360-c-no" alt="Food Delivery App Screenshot" style="width:260px; height:180px; object-fit:cover; border-radius:12px; margin-bottom:15px; box-shadow:0 0 10px rgba(0,255,136,0.5);" onerror="this.src='https://via.placeholder.com/260x180/0a0a23/ffffff?text=Food+App+Image'" />
-    <p style="font-size:16px; margin-bottom:10px;">Full-stack app for order tracking and delivery management.</p>
-    <p style="font-size:14px; margin-bottom:15px;"><b>Tech:</b> React, Node.js, MongoDB</p>
+    <p style="font-size:16px; margin-bottom:10px;">Developed a Food Delivery Application System with order tracking, an interactive timeline, and efficient delivery management.</p>
+    <p style="font-size:14px; margin-bottom:15px;"><b>Tech:</b> Java, MySQL</p>
     <a href="https://github.com/megashyam24/Food-Delivery" target="_blank" style="color:#00ff88; text-decoration:none; font-size:14px; padding:8px 16px; border:2px solid #00ff88; border-radius:8px; transition:background 0.3s ease, color 0.3s ease;" onmouseover="this.style.background='#00ff88'; this.style.color='#0a0a23';" onmouseout="this.style.background='transparent'; this.style.color='#00ff88';">View Repo</a>
   </div>
   <div style="background:linear-gradient(135deg,#d63031,#0984e3); color:white; width:100%; max-width:300px; border-radius:15px; padding:25px; transition:transform 0.3s ease, box-shadow 0.3s ease; box-shadow:0 12px 24px rgba(0,0,0,0.5); position:relative; overflow:hidden;" onmouseover="this.style.transform='translateY(-15px) scale(1.05)'; this.style.boxShadow='0 20px 40px rgba(0,255,136,0.7)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 12px 24px rgba(0,0,0,0.5)';">
