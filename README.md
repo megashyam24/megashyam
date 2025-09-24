@@ -298,33 +298,30 @@
 ---
 <!-- Experience Section -->
 ---
-<h2 align="center" style="color:#00ff88; text-shadow:0 0 10px #00ff88;">
-  💼 My Professional Journey
-</h2>
+## 💼 Experience
 
-<div align="center" style="display:flex; flex-direction:column; gap:25px; max-width:900px; margin:0 auto; padding:20px 0;">
+---
 
-  <div style="background:linear-gradient(135deg, #1A1A1A, #282828); color:#e0e0e0; padding:25px; border-radius:12px; box-shadow:0 8px 16px rgba(0,0,0,0.4); transition:transform 0.3s, box-shadow 0.3s; width:100%;" onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 12px 24px rgba(0,255,136,0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.4)';">
-    <h3 style="color:#00ff88; margin-bottom:5px;">☁️ **AI Team Intern** (Cloud Computing)</h3>
-    <p style="font-weight:bold; color:#ff00ff;">Dot Com Infoway Ltd, Madurai</p>
-    <p style="font-style:italic; color:#b0b0b0; margin-bottom:15px;">June 6, 2025 - July 4, 2025</p>
-    <ul style="list-style-type:square; text-align:left; padding-left:25px; line-height:1.6;">
-      <li>Completed an internship in the **AI team**, focusing on cloud computing solutions.</li>
-      <li>Contributed to the development and deployment of **AI-driven applications**, leveraging cloud infrastructure to enhance performance and scalability.</li>
-    </ul>
-  </div>
+### 🧠 AI Team Intern (Cloud Computing)  
+**Dot Com Infoway Ltd, Madurai**  
+<sub>🗓️ June 6, 2025 - July 4, 2025</sub>  
 
-  <div style="background:linear-gradient(135deg, #1A1A1A, #282828); color:#e0e0e0; padding:25px; border-radius:12px; box-shadow:0 8px 16px rgba(0,0,0,0.4); transition:transform 0.3s, box-shadow 0.3s; width:100%;" onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 12px 24px rgba(0,255,136,0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.4)';">
-    <h3 style="color:#00ff88; margin-bottom:5px;">💻 **Frontend Intern** (On-Remote)</h3>
-    <p style="font-weight:bold; color:#ff00ff;">Aspirerise Ventures Ltd, Dublin, Ireland</p>
-    <p style="font-style:italic; color:#b0b0b0; margin-bottom:15px;">May 15, 2025 - June 15, 2025</p>
-    <ul style="list-style-type:square; text-align:left; padding-left:25px; line-height:1.6;">
-      <li>Worked on **frontend development** tasks using modern web technologies.</li>
-      <li>Collaborated with design and backend teams to create **responsive and user-friendly web interfaces**.</li>
-    </ul>
-  </div>
+**🔹 Key Highlights:**  
+- 🚀 Developed and deployed AI-driven applications on cloud platforms.  
+- ☁️ Leveraged cloud infrastructure to enhance application performance and scalability.  
+- 🤝 Collaborated with AI team to implement innovative solutions.
 
-</div>
+---
+
+### 🎨 Frontend Intern (On-Remote)  
+**Aspirerise Ventures Ltd, Dublin, Ireland**  
+<sub>🗓️ May 15, 2025 - June 15, 2025</sub>  
+
+**🔹 Key Highlights:**  
+- 💻 Built responsive and user-friendly web interfaces.  
+- 🎨 Worked closely with design and backend teams for seamless UI/UX.  
+- ⚡ Implemented modern web technologies to improve website performance.
+
 
 
 <!-- GitHub Insights -->
