@@ -191,7 +191,6 @@
        onmouseover="this.style.transform='scale(1.3)';" 
        onmouseout="this.style.transform='scale(1)';" 
        onerror="this.src='https://via.placeholder.com/70x70/0a0a23/ffffff?text=Google+Cloud'" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
        width="70px" 
        style="margin:10px; transition:transform 0.3s ease; filter:drop-shadow(0 0 6px rgba(0,255,136,0.6));" 
@@ -297,6 +296,19 @@
 </div>
 
 ---
+<section id="experience">
+  <h2>Experience</h2>
+  <div class="experience-item">
+    <h3>AI Team Intern (Cloud Computing)</h3>
+    <p><strong>Dot Com Infoway Ltd, Madurai</strong></p>
+    <p><em>June 6, 2025 - July 4, 2025</em></p>
+    <ul>
+      <li>Completed an internship in the AI team, focusing on cloud computing solutions.</li>
+      <li>Contributed to the development and deployment of AI-driven applications, leveraging cloud infrastructure to enhance performance and scalability.</li>
+    </ul>
+  </div>
+</section>
+
 
 <!-- GitHub Insights -->
 <h2 align="center" style="color:#00ff88; text-shadow:0 0 12px #00ff88; animation:fadeIn 3.6s ease-in;">
@@ -311,10 +323,6 @@
        alt="Top Languages" 
        style="border-radius:15px; box-shadow:0 0 25px rgba(0,255,136,0.6); margin:12px; width:100%; max-width:480px;" 
        onerror="this.src='https://via.placeholder.com/480x220/0a0a23/ffffff?text=Top+Languages'" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=megashyam24&theme=radical&date_format=M%20j%5B,%20Y%5D" 
-       alt="GitHub Streak" 
-       style="border-radius:15px; box-shadow:0 0 25px rgba(0,255,136,0.6); margin:12px; width:100%; max-width:480px;" 
-       onerror="this.src='https://via.placeholder.com/480x220/0a0a23/ffffff?text=GitHub+Streak'" />
   <img src="https://github-profile-trophy.vercel.app/?username=megashyam24&theme=radical&margin-w=15&margin-h=15" 
        alt="GitHub Trophies" 
        style="border-radius:15px; box-shadow:0 0 25px rgba(0,255,136,0.6); margin:12px; width:100%; max-width:480px;" 
@@ -322,12 +330,6 @@
 </div>
 
 <!-- Contribution Snake -->
-<div align="center" style="margin:25px 15px;">
-  <img src="https://raw.githubusercontent.com/megashyam24/megashyam24/output/github-contribution-grid-snake.svg" 
-       alt="Contribution Snake" 
-       style="border-radius:15px; box-shadow:0 0 25px rgba(0,255,136,0.6); width:100%; max-width:850px;" 
-       onerror="this.src='https://via.placeholder.com/850x220/0a0a23/ffffff?text=Contribution+Snake'" />
-</div>
 
 ---
 
