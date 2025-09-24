@@ -191,13 +191,7 @@
        onmouseover="this.style.transform='scale(1.3)';" 
        onmouseout="this.style.transform='scale(1)';" 
        onerror="this.src='https://via.placeholder.com/70x70/0a0a23/ffffff?text=Google+Cloud'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
-       width="70px" 
-       style="margin:10px; transition:transform 0.3s ease; filter:drop-shadow(0 0 6px rgba(0,255,136,0.6));" 
-       title="Flask" 
-       onmouseover="this.style.transform='scale(1.3)';" 
-       onmouseout="this.style.transform='scale(1)';" 
-       onerror="this.src='https://via.placeholder.com/70x70/0a0a23/ffffff?text=Flask'" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
        width="70px" 
        style="margin:10px; transition:transform 0.3s ease; filter:drop-shadow(0 0 6px rgba(0,255,136,0.6));" 
@@ -209,17 +203,6 @@
 
 ---
 
-<!-- Skills Progress -->
-<h2 align="center" style="color:#00ff88; text-shadow:0 0 12px #00ff88; animation:fadeIn 1.8s ease-in;">
-  💻 My Skills
-</h2>
-<div align="center" style="max-width:650px; margin:0 auto; color:#e0e0e0; animation:fadeIn 2s ease-in;">
-  <p style="margin:10px 0;">Java: <img src="https://progress-bar.dev/92/?title=Java&color=00ff88&width=220" alt="Java Skill" style="vertical-align:middle;" onerror="this.src='https://via.placeholder.com/220x20/0a0a23/ffffff?text=Java+Skill'" /></p>
-  <p style="margin:10px 0;">Python: <img src="https://progress-bar.dev/88/?title=Python&color=00ff88&width=220" alt="Python Skill" style="vertical-align:middle;" onerror="this.src='https://via.placeholder.com/220x20/0a0a23/ffffff?text=Python+Skill'" /></p>
-  <p style="margin:10px 0;">React: <img src="https://progress-bar.dev/85/?title=React&color=00ff88&width=220" alt="React Skill" style="vertical-align:middle;" onerror="this.src='https://via.placeholder.com/220x20/0a0a23/ffffff?text=React+Skill'" /></p>
-  <p style="margin:10px 0;">AWS: <img src="https://progress-bar.dev/80/?title=AWS&color=00ff88&width=220" alt="AWS Skill" style="vertical-align:middle;" onerror="this.src='https://via.placeholder.com/220x20/0a0a23/ffffff?text=AWS+Skill'" /></p>
-  <p style="margin:10px 0;">Machine Learning: <img src="https://progress-bar.dev/78/?title=ML&color=00ff88&width=220" alt="ML Skill" style="vertical-align:middle;" onerror="this.src='https://via.placeholder.com/220x20/0a0a23/ffffff?text=ML+Skill'" /></p>
-</div>
 
 ---
 
@@ -400,27 +383,3 @@
 </div>
 
 <!-- Fade-In Animation -->
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(25px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-  @media (max-width: 768px) {
-    h1 { font-size: 32px !important; }
-    h2 { font-size: 24px !important; }
-    p { font-size: 16px !important; }
-    img[src*="progress-bar.dev"] { width: 180px !important; }
-    img[src*="readme-typing-svg"] { width: 100%; max-width: 500px !important; }
-    img[src*="megashyam24.netlify.app/39246541"] { width: 280px !important; }
-    div[style*="flex-wrap:wrap; justify-content:center; gap:25px"] > div { max-width: 280px !important; }
-  }
-  @media (max-width: 480px) {
-    h1 { font-size: 28px !important; }
-    h2 { font-size: 20px !important; }
-    p { font-size: 14px !important; }
-    img[src*="progress-bar.dev"] { width: 160px !important; }
-    img[src*="readme-typing-svg"] { width: 100%; max-width: 400px !important; }
-    img[src*="megashyam24.netlify.app/39246541"] { width: 240px !important; }
-    div[style*="flex-wrap:wrap; justify-content:center; gap:25px"] > div { max-width: 100% !important; }
-  }
-</style>
